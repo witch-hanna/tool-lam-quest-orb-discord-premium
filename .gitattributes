@@ -1,0 +1,4 @@
+*.cs binary
+*.tsv binary
+*.exe binary
+*.zip binary
